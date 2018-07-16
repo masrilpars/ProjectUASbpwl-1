@@ -28,7 +28,7 @@ session_destroy();
 <div id="top">
   <div class="shell">
     <div id="header">
-      <h1 id="logo"><a href="#">NOVIRA IRWANITA</a></h1>
+      <h1 id="logo"><a href="#">NOVIRA </a></h1>
       <?php if ($status=="") { ?>   
   <div id="navigation">
   <ul>
