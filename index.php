@@ -28,7 +28,7 @@ session_destroy();
 <div id="top">
   <div class="shell">
     <div id="header">
-      <h1 id="logo"><a href="#">NOVIRA </a></h1>
+      <h1 id="logo"><a href="#">Ambika | masril |Ruth</a></h1>
       <?php if ($status=="") { ?>   
   <div id="navigation">
   <ul>
@@ -144,7 +144,7 @@ while($psn = mysql_fetch_array($keranjangx)){
         </div>
         
         <div id="footer">
-          <div class="right"> <font size="2">&copy; 2015 Design by NOVIRA IRWANITA</font></div>
+          <div class="right"> <font size="2">&copy; 2018 Ambika | Masril | Ruth</font></div>
         </div>
 </body>       
 </html>
