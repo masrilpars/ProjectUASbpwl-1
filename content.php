@@ -9,11 +9,11 @@ if (isset  ($_GET['modul'])) {
               <div class="cl"></div>
               <ul>
                 <li>
-                  <div class="image"><img src="css/images/nike/image8.jpg" width="140" height="85" /></a> </div>
-                  <p> Nama : <span> Flyknit Black Purple</span><br />
+                  <div class="image"><img src="sepatu-lari-nike-130377.jpg" width="140" height="85" /></a> </div>
+                  <p> Nama : <span> Nike Air Zoom Elite</span><br />
                     Merk  : <span>Nike</span><br />
-                   Ukuran : <a href="#">39 - 42</a> </p>
-                  <p class="price">Harga: Rp. <strong>350000</strong></p>
+                   Ukuran : <a href="#">39 - 42</a>2055000 </p>
+                  <p class="price">Harga: Rp. <strong></strong></p>
                 </li>
                 <li>
                    <div class="image"><img src="css/images/nike/image2.jpg" width="140" height="85" /></a> </div>
